@@ -60,8 +60,8 @@ httpd.serve_forever()
 ```
 
 ## CLINENT OUTPUT:
-![](/ex01/myproj/webserver/output.png)
+![](./serveroutput.png)
 ## SERVER OUTPUT:
-![](/ex01/myproj/webserver/serveroutput.png)
+![](./output.png)
 ## RESULT:
 The program is executed succesfully
